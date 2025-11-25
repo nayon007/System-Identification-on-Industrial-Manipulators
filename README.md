@@ -105,24 +105,3 @@ and run the cells to reproduce the experiments.
   **Baxter Dynamic Model**, EduardoRosLab, GitHub + Zenodo.
 
 This repository is intended as a research starting point for system identification on real industrial manipulators. Contributions and pull requests with additional models or datasets are welcome.
-
-````
-
-> Don’t rerun `git init` or `git remote add` – you already did that.
-
-Save and exit (`Ctrl+X`, then `Y`, then `Enter` in `nano`).
-
----
-
-## 2. Add the notebook to this repo
-
-Your notebook is currently in `~/Downloads`. Move it into the new repo:
-
-```bash
-cd ~/System-Identification-on-Industrial-Manipulators   # or whatever path you used
-
-mv ~/Downloads/sysid_kuka_baxter_research.ipynb .
-# or, if you prefer a subfolder:
-# mkdir -p notebooks
-# mv ~/Downloads/sysid_kuka_baxter_research.ipynb notebooks/
-````
