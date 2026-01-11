@@ -97,6 +97,11 @@ and run the cells to reproduce the experiments.
 
 ## References
 
+* Haque, T. S., Fathima, S., Rahman, M. H., and Shafiullah, M.,
+  **“Long-Horizon System Identification of Industrial Manipulators via Measured-Input Rollouts,”**
+  Proc. 23rd IEEE Int. Multi-Conference on Systems, Signals & Devices (SSD 2026),
+  Accepted for publication and presentation, March–April 2026.
+
 * J. Weigand, J. Götz, J. Ulmen, M. Ruskowski,
   **“Dataset and Baseline for an Industrial Robot Identification Benchmark”**,
   Data-Centric Engineering, 2023.
